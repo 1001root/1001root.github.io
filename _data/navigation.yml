@@ -1,22 +1,22 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
+    url: / #/publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: / #/talks/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: / #/teaching/    
     
   - title: "Portfolio"
-    url: /portfolio/
+    url: /files/AshishAgarwal_CV.pdf
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: "https://medium.com/@CRLannister"
     
   - title: "CV"
-    url: /cv/
+    url: /files/AshishAgarwal_CV.pdf
     
   - title: "Guide"
-    url: /markdown/
+    url: / #/markdown/
